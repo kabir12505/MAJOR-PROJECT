@@ -1,8 +1,9 @@
-import Home from "./pages/Home.jsx";
-import "./index.css";
-import Navbar from"./COMPONENTS/Navbar.jsx";
+import Home from "./Pages/Home";
+
 function App() {
+
   return <Home />;
+
 }
 
 export default App;

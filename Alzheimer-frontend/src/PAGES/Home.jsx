@@ -1,4 +1,4 @@
-import Navbar from "../components/Navbar";
+import Navbar from "../Components/Navbar";
 
 function Home() {
 
@@ -11,7 +11,7 @@ function Home() {
       <div className="max-w-7xl mx-auto px-8 py-20">
 
         <p className="uppercase tracking-[4px] text-teal-800 mb-5">
-          AI Powered Alzheimer's Detection
+          Multi-Model Alzheimer's Detection 
         </p>
 
         <h1 className="text-7xl font-bold leading-tight">
