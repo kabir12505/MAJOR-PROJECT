@@ -1,5 +1,5 @@
 import Navbar from "../Components/Navbar";
-
+import InferenceConsole from "../Components/InferenceConsole";
 function Home() {
 
   return (
@@ -32,11 +32,13 @@ function Home() {
 
           Upload a brain MRI image and compare predictions from
           four state-of-the-art deep learning models including
-          ResNet50, EfficientNetB0, DenseNet121 and Vision Transformer.
+          ResNet-18, EfficientNet-B0, DenseNet-18 and ConvNeXt-Tiny.
 
         </p>
 
       </div>
+
+      <InferenceConsole />
 
     </>
 

@@ -8,7 +8,8 @@ function Navbar() {
         <h1 className="flex items-center text-3xl font-bold gap-3">
           <img src={logo} alt="SSIPMT Raipur logo" className="h-15 w-auto rounded" />
           <span>
-            SSIPMT<span className="text-amber-700">,Raipur</span>
+            <span className="text-amber-700">ALZ</span>
+            <span className="text-gray-700"> Detect</span>
           </span>
         </h1>
 
