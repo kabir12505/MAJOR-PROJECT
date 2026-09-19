@@ -1,0 +1,245 @@
+[
+  {
+    "extractor": "ResNet50",
+    "selector": "Mutual Information",
+    "classifier": "SVM",
+    "validation_accuracy": 0.775,
+    "test_accuracy": 0.7666666666666667,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\ResNet50_Mutual_Information_SVM.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "ResNet50",
+    "selector": "Mutual Information",
+    "classifier": "Random Forest",
+    "validation_accuracy": 0.7395833333333334,
+    "test_accuracy": 0.7510416666666667,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\ResNet50_Mutual_Information_Random_Forest.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "ResNet50",
+    "selector": "Mutual Information",
+    "classifier": "MLP",
+    "validation_accuracy": 0.7927083333333333,
+    "test_accuracy": 0.771875,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\ResNet50_Mutual_Information_MLP.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "ResNet50",
+    "selector": "RFE",
+    "classifier": "SVM",
+    "validation_accuracy": 0.8364583333333333,
+    "test_accuracy": 0.85,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\ResNet50_RFE_SVM.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "ResNet50",
+    "selector": "RFE",
+    "classifier": "Random Forest",
+    "validation_accuracy": 0.7364583333333333,
+    "test_accuracy": 0.7697916666666667,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\ResNet50_RFE_Random_Forest.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "ResNet50",
+    "selector": "RFE",
+    "classifier": "MLP",
+    "validation_accuracy": 0.8395833333333333,
+    "test_accuracy": 0.8427083333333333,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\ResNet50_RFE_MLP.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "ResNet50",
+    "selector": "L1-based Selection",
+    "classifier": "SVM",
+    "validation_accuracy": 0.7979166666666667,
+    "test_accuracy": 0.8260416666666667,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\ResNet50_L1_based_Selection_SVM.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "ResNet50",
+    "selector": "L1-based Selection",
+    "classifier": "Random Forest",
+    "validation_accuracy": 0.7458333333333333,
+    "test_accuracy": 0.7520833333333333,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\ResNet50_L1_based_Selection_Random_Forest.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "ResNet50",
+    "selector": "L1-based Selection",
+    "classifier": "MLP",
+    "validation_accuracy": 0.8072916666666666,
+    "test_accuracy": 0.7989583333333333,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\ResNet50_L1_based_Selection_MLP.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "DenseNet121",
+    "selector": "Mutual Information",
+    "classifier": "SVM",
+    "validation_accuracy": 0.8739583333333333,
+    "test_accuracy": 0.8854166666666666,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\DenseNet121_Mutual_Information_SVM.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "DenseNet121",
+    "selector": "Mutual Information",
+    "classifier": "Random Forest",
+    "validation_accuracy": 0.76875,
+    "test_accuracy": 0.7875,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\DenseNet121_Mutual_Information_Random_Forest.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "DenseNet121",
+    "selector": "Mutual Information",
+    "classifier": "MLP",
+    "validation_accuracy": 0.903125,
+    "test_accuracy": 0.903125,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\DenseNet121_Mutual_Information_MLP.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "DenseNet121",
+    "selector": "RFE",
+    "classifier": "SVM",
+    "validation_accuracy": 0.8979166666666667,
+    "test_accuracy": 0.8895833333333333,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\DenseNet121_RFE_SVM.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "DenseNet121",
+    "selector": "RFE",
+    "classifier": "Random Forest",
+    "validation_accuracy": 0.79375,
+    "test_accuracy": 0.8052083333333333,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\DenseNet121_RFE_Random_Forest.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "DenseNet121",
+    "selector": "RFE",
+    "classifier": "MLP",
+    "validation_accuracy": 0.9020833333333333,
+    "test_accuracy": 0.9020833333333333,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\DenseNet121_RFE_MLP.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "DenseNet121",
+    "selector": "L1-based Selection",
+    "classifier": "SVM",
+    "validation_accuracy": 0.9083333333333333,
+    "test_accuracy": 0.9,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\DenseNet121_L1_based_Selection_SVM.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "DenseNet121",
+    "selector": "L1-based Selection",
+    "classifier": "Random Forest",
+    "validation_accuracy": 0.80625,
+    "test_accuracy": 0.81875,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\DenseNet121_L1_based_Selection_Random_Forest.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "DenseNet121",
+    "selector": "L1-based Selection",
+    "classifier": "MLP",
+    "validation_accuracy": 0.91875,
+    "test_accuracy": 0.9010416666666666,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\DenseNet121_L1_based_Selection_MLP.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "EfficientNet-B0",
+    "selector": "Mutual Information",
+    "classifier": "SVM",
+    "validation_accuracy": 0.8322916666666667,
+    "test_accuracy": 0.85,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\EfficientNet_B0_Mutual_Information_SVM.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "EfficientNet-B0",
+    "selector": "Mutual Information",
+    "classifier": "Random Forest",
+    "validation_accuracy": 0.7625,
+    "test_accuracy": 0.7739583333333333,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\EfficientNet_B0_Mutual_Information_Random_Forest.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "EfficientNet-B0",
+    "selector": "Mutual Information",
+    "classifier": "MLP",
+    "validation_accuracy": 0.8708333333333333,
+    "test_accuracy": 0.878125,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\EfficientNet_B0_Mutual_Information_MLP.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "EfficientNet-B0",
+    "selector": "RFE",
+    "classifier": "SVM",
+    "validation_accuracy": 0.8458333333333333,
+    "test_accuracy": 0.8604166666666667,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\EfficientNet_B0_RFE_SVM.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "EfficientNet-B0",
+    "selector": "RFE",
+    "classifier": "Random Forest",
+    "validation_accuracy": 0.778125,
+    "test_accuracy": 0.790625,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\EfficientNet_B0_RFE_Random_Forest.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "EfficientNet-B0",
+    "selector": "RFE",
+    "classifier": "MLP",
+    "validation_accuracy": 0.8760416666666667,
+    "test_accuracy": 0.8916666666666667,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\EfficientNet_B0_RFE_MLP.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "EfficientNet-B0",
+    "selector": "L1-based Selection",
+    "classifier": "SVM",
+    "validation_accuracy": 0.8614583333333333,
+    "test_accuracy": 0.8729166666666667,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\EfficientNet_B0_L1_based_Selection_SVM.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "EfficientNet-B0",
+    "selector": "L1-based Selection",
+    "classifier": "Random Forest",
+    "validation_accuracy": 0.7645833333333333,
+    "test_accuracy": 0.784375,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\EfficientNet_B0_L1_based_Selection_Random_Forest.joblib",
+    "status": "trained"
+  },
+  {
+    "extractor": "EfficientNet-B0",
+    "selector": "L1-based Selection",
+    "classifier": "MLP",
+    "validation_accuracy": 0.8802083333333334,
+    "test_accuracy": 0.9,
+    "model_path": "C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\MAJOR-PROJECT\\Alzheimer-backend\\trained_models\\EfficientNet_B0_L1_based_Selection_MLP.joblib",
+    "status": "trained"
+  }
+]

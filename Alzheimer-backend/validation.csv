@@ -1,0 +1,961 @@
+image_path,class_name,label
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\32 (11).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (6).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\27 (2).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2002.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\29 (25).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem892.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem460.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem620.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1344.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1107.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (53).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (17).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1149.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem188.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\26 (88).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\27 (22).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1301.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem47.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem460.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1843.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem349.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1717.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem701.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1173.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem287.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem636.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem536.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem620.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1667.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem205.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\31 (26).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1254.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem94.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem585.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\moderateDem27.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1558.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1293.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1313.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1098.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\29 (10).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1609.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\31 (40).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\31 (54).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem357.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2331.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1657.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2276.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem105.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1574.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem240.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem69.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem354.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1821.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1787.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem718.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem622.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1371.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem363.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem398.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2004.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (98).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (27).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem103.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1292.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2184.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2170.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (53).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1776.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem522.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem693.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1790.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem495.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem490.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1867.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem105.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem790.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (24).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (31).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem232.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1265.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1202.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem447.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem632.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2091.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem979.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1587.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1281.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\31 (24).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1718.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem971.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem54.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (12).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem157.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem988.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem302.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem569.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\31 (10).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\30 (27).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (26).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1336.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem265.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1429.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\30 (2).jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1462.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (16).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1495.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1576.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem478.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1777.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem960.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem715.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2341.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2362.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem6.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (62).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem218.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem332.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1347.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem91.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2159.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\32 (18).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\moderateDem39.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2471.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1526.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1906.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2114.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem891.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem952.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (56).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem348.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem360.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\30 (47).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (3).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (73).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1385.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem611.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1711.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1761.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1253.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1199.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem101.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2278.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2364.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1749.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (100).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (15).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2472.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (20).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (48).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\32 (12).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem630.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem260.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1565.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem311.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\29 (14).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (57).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (26).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1159.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1668.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1161.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (22).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (86).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem265.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2216.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem74.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1487.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1165.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem506.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem264.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (15).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (57).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (79).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2040.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem658.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (75).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (30).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem379.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem299.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem63.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2423.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1623.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2460.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1340.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\30 (3).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1023.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem797.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1497.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1393.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (4).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem338.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1073.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (3).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1054.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1222.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem20.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\26 (56).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem497.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem867.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1727.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1529.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem831.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1452.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem209.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem795.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1838.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem9.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2474.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem990.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1515.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2419.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\moderateDem37.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1053.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem169.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2050.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1011.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2507.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem170.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem695.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem863.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2406.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1720.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem197.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (7).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem62.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1060.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1025.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (55).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem802.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\moderateDem12.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2173.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem398.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\31 (46).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1317.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2063.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2109.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem288.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1358.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem21.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1726.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem443.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1756.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1712.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem199.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (94).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem930.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2493.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem762.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2501.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\27 (4).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1428.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem747.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1325.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1208.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1951.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1578.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem816.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem351.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (23).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem180.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1336.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem270.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem410.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1215.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (39).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1080.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem7.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1765.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem652.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem388.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem118.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1483.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (67).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem894.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem963.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem383.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1748.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem181.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1449.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem42.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1041.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (96).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem104.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem482.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1600.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\31 (13).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem11.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem844.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem275.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem71.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2350.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem181.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem474.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem811.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem847.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem513.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem385.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem820.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem13.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem332.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem793.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2245.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (86).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem93.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1029.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2349.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1722.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1067.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (12).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem215.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (41).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1494.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem692.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (87).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem772.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1339.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1798.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1086.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem826.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem433.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1407.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem473.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\26 (26).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem364.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem923.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem503.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem52.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1683.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem163.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1893.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1133.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2246.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (10).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem715.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1211.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1258.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem428.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\32 (2).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem473.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem472.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem714.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (11).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1816.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem253.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1388.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (22).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem815.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1226.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1313.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem100.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1696.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (36).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (46).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\31 (45).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2122.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1349.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1717.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem592.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\30 (66).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem913.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem405.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1201.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem169.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem888.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem222.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1013.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (40).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem179.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1449.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem481.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (27).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\26 (95).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2076.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem864.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (65).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem302.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1522.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1300.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1375.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (7).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1105.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1460.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem570.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2295.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2209.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem327.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem152.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem437.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem227.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1366.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem906.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1063.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (52).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem86.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem718.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem194.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem420.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2066.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2254.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem24.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem193.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2194.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (41).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem727.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1127.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (63).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2306.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (60).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem380.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem391.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1257.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (5).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem740.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1011.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\moderateDem40.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (12).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2089.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem522.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem676.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem927.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem127.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (9).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1972.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem683.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (39).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem403.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1939.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem157.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (93).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem195.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem285.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem81.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1117.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem109.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem36.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem498.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem324.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1332.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1059.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem111.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1933.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\29 (28).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1002.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (56).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2547.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1762.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1314.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem857.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1518.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem27.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\29 (11).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1004.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem70.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (7).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem377.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1885.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (84).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1650.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1020.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\26 (97).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2285.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1420.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1676.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem499.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem419.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem941.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem146.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem139.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem823.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\29 (18).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem875.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem351.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2516.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem300.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1720.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem187.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1343.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1440.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1587.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem530.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem664.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem427.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem581.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1063.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem22.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem766.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem630.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1188.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem294.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1649.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1930.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2462.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1533.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem597.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2207.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1786.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem379.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1640.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1648.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1767.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem508.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1204.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem751.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1754.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1110.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem994.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (66).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem635.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem295.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem967.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2012.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2280.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem315.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1910.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1514.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2104.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1928.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1538.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem451.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2287.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2024.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem638.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1536.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem973.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem457.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\31 (33).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1145.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem594.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2345.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem319.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem174.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2067.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\moderateDem0.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1471.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1618.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\26 (99).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2497.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem792.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1160.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1404.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem58.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2018.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem583.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem780.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem281.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem225.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1759.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1545.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem125.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem577.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1447.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (32).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem691.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem416.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\32 (18).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1072.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\30 (26).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem687.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem25.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem282.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem636.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem544.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (20).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1946.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (41).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1780.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem779.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem92.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem259.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1570.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\30 (46).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1858.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2402.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1719.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2205.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem529.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1692.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem246.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem580.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (19).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1204.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem151.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1102.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1613.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\31 (42).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1866.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1009.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\30 (25).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (34).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2269.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (87).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1088.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem499.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2433.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1743.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem873.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem638.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1021.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem3.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem917.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1034.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem558.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem564.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1948.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\moderateDem28.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem200.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem550.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1202.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem621.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\29 (58).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem55.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2289.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1145.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (58).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem590.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (23).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem440.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem957.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem51.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem299.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem148.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem77.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem372.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem677.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1396.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (28).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1519.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem75.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem912.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2539.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (54).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1425.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem464.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1189.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem362.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem240.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2016.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1732.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem256.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2352.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1299.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1187.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem402.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (66).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem474.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1639.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem697.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2272.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1736.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1454.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1438.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2457.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem458.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem140.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (89).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1430.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1307.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem81.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem162.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem696.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem422.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem539.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem364.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (54).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem528.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\28 (22).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem469.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem777.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem343.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1281.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem651.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem188.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem591.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1412.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem359.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem808.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem809.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem125.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1923.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem914.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1602.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1950.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1461.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1544.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem439.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem497.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1367.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (24).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (15).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1248.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (75).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2312.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem1.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem836.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem646.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem480.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1594.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1163.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem327.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1391.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1644.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem910.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem396.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem178.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem365.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\32 (20).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem736.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1486.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\32 (49).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem759.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem401.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (80).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1635.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem438.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2290.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1785.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (7).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2092.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2139.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem116.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (60).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem587.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem375.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\30 (64).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem186.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem219.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (9).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem580.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem370.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1937.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1020.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1375.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem118.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1153.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem568.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem421.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem248.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem133.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem590.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem15.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (97).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1808.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1772.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem602.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (35).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1568.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem512.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1377.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem38.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem428.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2149.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (71).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1252.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1852.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem913.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2487.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1474.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem687.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\27 (20).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem838.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1652.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem644.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1706.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2300.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem920.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (43).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2074.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1574.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem574.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1547.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem548.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1503.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem849.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1455.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1591.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem137.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\32 (64).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem181.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1745.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem650.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\30 (57).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1261.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem480.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem93.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1512.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem635.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (27).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1747.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (60).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1391.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1949.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1005.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem142.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1110.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2400.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1066.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem949.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem46.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1249.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem696.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (40).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2511.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem207.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1242.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\28 (28).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem135.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1105.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\31 (64).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1845.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1799.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1459.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1464.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem607.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem760.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem687.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1750.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2489.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1448.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem537.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1722.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1253.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1517.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\29 (19).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\32 (69).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2134.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem272.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1296.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\27 (17).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem324.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem456.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem532.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\30 (38).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem68.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2056.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem999.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\28 (58).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem507.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\29 (17).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1897.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem690.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (25).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem87.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\31 (8).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1228.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\30 (14).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem977.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem321.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1797.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem53.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\31 (17).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1384.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem853.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (47).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (54).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1130.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem13.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1673.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1101.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1345.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem98.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1378.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem713.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem673.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem975.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2451.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem189.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2047.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem147.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem918.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem660.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\moderateDem4.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem365.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1018.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem226.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1018.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1474.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem623.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1472.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2524.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem117.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1048.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem157.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\30 (42).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem296.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1462.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem134.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem486.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem764.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1543.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem539.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem97.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem400.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem576.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1225.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem78.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem400.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem39.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem640.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (19).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2283.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem465.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\29 (16).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem130.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem778.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (39).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem309.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\32 (17).jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem387.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2266.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (57).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (53).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem366.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem938.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1114.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem520.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1119.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem813.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1008.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem530.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\27 (31).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem541.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1227.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1238.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\32 (33).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\30 (67).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem754.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\28 (59).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem106.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem950.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem212.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem868.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\29 (31).jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1127.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem826.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1052.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem234.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem75.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\27 (49).jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\29.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem255.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1362.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1210.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem915.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1137.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem331.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem854.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem390.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1620.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem1113.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1505.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem2127.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1531.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1289.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem1243.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\mildDem128.jpg,MildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\ModerateDemented\moderateDem13.jpg,ModerateDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\NonDemented\nonDem90.jpg,NonDemented,0
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\VeryMildDemented\verymildDem450.jpg,VeryMildDemented,1
+C:\Users\HP\OneDrive\Documents\GitHub\MAJOR-PROJECT\archive\OriginalDataset\MildDemented\30 (19).jpg,MildDemented,1

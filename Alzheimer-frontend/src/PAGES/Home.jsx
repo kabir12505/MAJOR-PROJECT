@@ -29,12 +29,11 @@ function Home() {
         </h1>
 
         <p className="text-xl text-gray-600 mt-8 max-w-3xl">
-
-          Upload a brain MRI image and compare predictions from
-          four state-of-the-art deep learning models including
-          ResNet-18, EfficientNet-B0, DenseNet-18 and ConvNeXt-Tiny.
-
-        </p>
+  Upload a brain MRI image and explore predictions using
+  27 machine learning pipelines combining three deep learning
+  feature extractors—ResNet50, DenseNet121, and EfficientNet-B0—
+  with three feature selection techniques and three classifiers.
+</p>
 
       </div>
 
