@@ -215,3 +215,44 @@ def predict_mri(request):
             {"error": str(e)},
             status=status.HTTP_400_BAD_REQUEST
         )
+
+import json
+
+SUMMARY_PATH = os.path.join(
+    BASE_DIR,
+    "trained_models",
+    "training_summary.json"
+)
+
+@api_view(["GET"])
+def evaluation_summary(request):
+    """
+    Return evaluation metrics for all trained models.
+    """
+
+    if not os.path.exists(SUMMARY_PATH):
+        return Response(
+            {
+                "error": "training_summary.json not found",
+                "expected_path": SUMMARY_PATH
+            },
+            status=status.HTTP_404_NOT_FOUND
+        )
+
+    try:
+        with open(SUMMARY_PATH, "r", encoding="utf-8") as file:
+            summary = json.load(file)
+
+        return Response(summary)
+
+    except json.JSONDecodeError:
+        return Response(
+            {"error": "Invalid JSON in training_summary.json"},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR
+        )
+
+    except Exception as e:
+        return Response(
+            {"error": str(e)},
+            status=status.HTTP_500_INTERNAL_SERVER_ERROR
+        )    
